@@ -3,7 +3,8 @@
   "name": "flipper-plugin-react-query-native-devtools",
   "id": "flipper-plugin-react-query-native-devtools",
   "description": "Inspect React Query cache with Flipper",
-  "version": "4.0.0",
+  "title": "React Query Devtools",
+  "version": "4.1.1",
   "main": "dist/bundle.js",
   "flipperBundlerEntry": "src/index.tsx",
   "author": "Bruno Galeotti",
@@ -11,7 +12,6 @@
   "keywords": [
     "flipper-plugin"
   ],
-  "private": true,
   "repository": "https://github.com/bgaleotti/react-query-native-devtools/",
   "scripts": {
     "build": "true",
